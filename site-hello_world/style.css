@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    background-color: #000;
+}
+
+.content{
+    color: rgb(2, 2, 133);
+    width: 50%;
+    height: 50%;
+    padding: 30px;
+    background-color: #ccc;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 23%;
+}
+
+h1{
+    font-weight: 600;
+}
+
+p{
+    font-size: 17px;
+}
